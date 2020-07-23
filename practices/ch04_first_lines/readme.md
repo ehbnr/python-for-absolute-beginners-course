@@ -1,4 +1,4 @@
-# Practice Exercises for first lines of code
+# Practice Exercises for first lines of code (COMPLETED)
 
 ## Overview
 
