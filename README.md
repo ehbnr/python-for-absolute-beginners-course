@@ -7,8 +7,3 @@ Code samples and other handouts for our course.
 See the [practice exercises](/practices).
 
 
-
-
-test change
-
-
