@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef19bd43-2fd0-4783-b746-ddc695e810b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rps-game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-start-rps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-start-rps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rps-game.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +48,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin/python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.rps-game-1player">
+    <configuration name="rps-game-1player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo-start-rps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rps-game-1player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rps-game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo-start-rps" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rps-game-1player" />
         <item itemvalue="Python.rps-game" />
       </list>
     </recent_temporary>
@@ -99,27 +124,60 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1897" height="280" key="GridCell.Tab.0.bottom" timestamp="1595602731482">
+    <state x="419" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595604709957">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595602731482" />
-    <state width="1897" height="280" key="GridCell.Tab.0.center" timestamp="1595602731482">
+    <state x="419" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595604709957" />
+    <state x="710" y="329" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595604784797">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595602731482" />
-    <state width="1897" height="280" key="GridCell.Tab.0.left" timestamp="1595602731482">
+    <state x="710" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1595604784797" />
+    <state x="743" y="283" key="FileChooserDialogImpl" timestamp="1595604962941">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595602731482" />
-    <state width="1897" height="280" key="GridCell.Tab.0.right" timestamp="1595602731482">
+    <state x="743" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595604962941" />
+    <state width="1897" height="280" key="GridCell.Tab.0.bottom" timestamp="1595614623528">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595602731482" />
-    <state x="451" y="245" key="SettingsEditor" timestamp="1595600971359">
+    <state width="1897" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623528" />
+    <state width="1897" height="280" key="GridCell.Tab.0.center" timestamp="1595614623526">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="451" y="245" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595600971359" />
+    <state width="1897" height="280" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623526" />
+    <state width="1897" height="280" key="GridCell.Tab.0.left" timestamp="1595614623526">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="280" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623526" />
+    <state width="1897" height="280" key="GridCell.Tab.0.right" timestamp="1595614623527">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="280" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623527" />
+    <state width="1897" height="346" key="GridCell.Tab.1.bottom" timestamp="1595613236437">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595613236437" />
+    <state width="1897" height="346" key="GridCell.Tab.1.center" timestamp="1595613236436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="346" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595613236436" />
+    <state width="1897" height="346" key="GridCell.Tab.1.left" timestamp="1595613236436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="346" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595613236436" />
+    <state width="1897" height="346" key="GridCell.Tab.1.right" timestamp="1595613236436">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1897" height="346" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595613236436" />
+    <state x="451" y="245" key="SettingsEditor" timestamp="1595604968327">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="451" y="245" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595604968327" />
+    <state x="686" y="419" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595604828243">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="686" y="419" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595604828243" />
   </component>
 </project>
