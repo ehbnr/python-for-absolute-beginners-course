@@ -1,4 +1,4 @@
-# Practice exercises for interactive code
+# Practice exercises for interactive code (COMPLETED)
 
 ## Overview
 
