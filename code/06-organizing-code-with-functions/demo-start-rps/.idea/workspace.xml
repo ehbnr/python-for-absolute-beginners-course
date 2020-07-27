@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef19bd43-2fd0-4783-b746-ddc695e810b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/demo-start-rps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-start-rps.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rps-game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rps-game-1player.py" beforeDir="false" afterPath="$PROJECT_DIR$/rps-game-1player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin/python" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -139,22 +139,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="743" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595604962941" />
-    <state width="1897" height="280" key="GridCell.Tab.0.bottom" timestamp="1595614623528">
+    <state width="929" height="277" key="GridCell.Tab.0.bottom" timestamp="1595826951044">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623528" />
-    <state width="1897" height="280" key="GridCell.Tab.0.center" timestamp="1595614623526">
+    <state width="929" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951044" />
+    <state width="929" height="277" key="GridCell.Tab.0.center" timestamp="1595826951042">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623526" />
-    <state width="1897" height="280" key="GridCell.Tab.0.left" timestamp="1595614623526">
+    <state width="929" height="277" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951042" />
+    <state width="929" height="277" key="GridCell.Tab.0.left" timestamp="1595826951042">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623526" />
-    <state width="1897" height="280" key="GridCell.Tab.0.right" timestamp="1595614623527">
+    <state width="929" height="277" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951042" />
+    <state width="929" height="277" key="GridCell.Tab.0.right" timestamp="1595826951043">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1897" height="280" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595614623527" />
+    <state width="929" height="277" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951043" />
     <state width="1897" height="346" key="GridCell.Tab.1.bottom" timestamp="1595613236437">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
