@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef19bd43-2fd0-4783-b746-ddc695e810b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo-start-rps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo-start-rps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rps-game-1player.py" beforeDir="false" afterPath="$PROJECT_DIR$/rps-game-1player.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +51,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin/python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.rps-game-1player">
+  <component name="RunManager" selected="Python.guessing_game">
+    <configuration name="guessing_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../practice/guessing_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rps-game-1player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo-start-rps" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guessing_game" />
         <item itemvalue="Python.rps-game-1player" />
         <item itemvalue="Python.rps-game" />
       </list>
@@ -135,26 +160,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="710" y="329" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1595604784797" />
-    <state x="743" y="283" key="FileChooserDialogImpl" timestamp="1595604962941">
+    <state x="743" y="283" width="432" height="483" key="FileChooserDialogImpl" timestamp="1595827514413">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="743" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595604962941" />
-    <state width="929" height="277" key="GridCell.Tab.0.bottom" timestamp="1595826951044">
+    <state x="743" y="283" width="432" height="483" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1595827514413" />
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom" timestamp="1595835119834">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="929" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951044" />
-    <state width="929" height="277" key="GridCell.Tab.0.center" timestamp="1595826951042">
+    <state width="1897" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595835119834" />
+    <state width="1897" height="279" key="GridCell.Tab.0.center" timestamp="1595835119832">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="929" height="277" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951042" />
-    <state width="929" height="277" key="GridCell.Tab.0.left" timestamp="1595826951042">
+    <state width="1897" height="279" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595835119832" />
+    <state width="1897" height="279" key="GridCell.Tab.0.left" timestamp="1595835119832">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="929" height="277" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951042" />
-    <state width="929" height="277" key="GridCell.Tab.0.right" timestamp="1595826951043">
+    <state width="1897" height="279" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595835119832" />
+    <state width="1897" height="279" key="GridCell.Tab.0.right" timestamp="1595835119833">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="929" height="277" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595826951043" />
+    <state width="1897" height="279" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595835119833" />
     <state width="1897" height="346" key="GridCell.Tab.1.bottom" timestamp="1595613236437">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -175,6 +200,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="451" y="245" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1595604968327" />
+    <state x="106" y="0" width="1728" height="858" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595835761924">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="106" y="0" width="1728" height="858" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1595835761924" />
     <state x="686" y="419" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1595604828243">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

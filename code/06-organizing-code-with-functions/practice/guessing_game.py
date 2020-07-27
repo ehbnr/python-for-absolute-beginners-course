@@ -1,0 +1,53 @@
+# Guessing Game
+
+import random
+
+def main():
+    show_header()
+    play_game()
+
+def show_header():
+    print("--------------------------------------")
+    print("          M&M Guessing Game")
+    print("--------------------------------------")
+
+    print("Guess the number of M&Ms and you get lunch on the house!")
+    print("It is between 1 and 100.")
+    print()
+
+def get_guest():
+    guess_text = input("How many M&Ms are in the jar? ")  # reminder: this value is a string
+    guess = int(guess_text)  # turns the string above into an integer
+    return guess
+
+def evaluate_guess(guess, actual_count):
+    if actual_count == guess:
+        print(f"Winner! You got free lunch! The number was {guess}. ")
+        # break  # break disrupts the loop
+    elif actual_count < guess:
+        print("That's too high.")
+    else:
+        print("That's too low.")
+    print()
+    return actual_count == guess
+
+def play_game():
+    mm_count = random.randint(1, 100)  # Calls for a random integer between 1 and 100.
+    attempt_limit = 10
+    attempts = 0
+
+    while attempts < attempt_limit:  # While loop to give user a certain number of attempts.
+        guess = get_guest()
+        attempts += 1  # keeps track of number of attempts user has made
+
+        won = evaluate_guess(guess, mm_count)
+        if won:
+            break
+
+    if mm_count == guess:
+        print(f"You completed this in {attempts} attempts.")
+    else:
+        print("Sorry, better luck next time!")
+
+if __name__ == '__main__':
+    main()
