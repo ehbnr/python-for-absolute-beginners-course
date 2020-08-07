@@ -17,6 +17,7 @@ rolls = {
     },
 }
 
+
 def main():
     show_header()
 
@@ -32,13 +33,11 @@ def show_header():
 
 
 def play_game(player1, player2):
-    rounds = 3
-    wins_p1 = 0
-    wins_p2 = 0
+    wins = {player1: 0, player2: 0}
 
     roll_names = list(rolls.keys())
 
-    while wins_p1 < rounds and wins_p2 < rounds:
+    while find_winner(wins, wins.keys()):
 
         roll1 = get_roll(player1, roll_names)
         roll2 = random.choice(roll_names)
@@ -70,6 +69,15 @@ def play_game(player1, player2):
         overall_winner = player2
 
     print(f"{overall_winner} wins the game!")
+
+
+def find_winner(wins, names):
+    best_of = 3
+    for name in names:
+        if wins.get(name, 0) >= best_of:
+            return name
+
+    return None
 
 
 def win_conditions(player1, player2, roll1, roll2):
