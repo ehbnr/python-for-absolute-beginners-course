@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51fb5844-fb61-423e-a56f-f695b2dd37ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1fm7fZd0m0aITvui0As0iw5dBUg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.rps-game-1player">
+    <configuration name="rps-game-1player" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="07-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/rps-game-1player.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rpsgame" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="07-data-structures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rocks-game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rocks-game/rpsgame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rps-game-1player" />
+        <item itemvalue="Python.rpsgame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51fb5844-fb61-423e-a56f-f695b2dd37ad" name="Default Changelist" comment="" />
+      <created>1596811517285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596811517285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="929" height="275" key="GridCell.Tab.0.bottom" timestamp="1596818477810">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="929" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1046@0.0.1920.1046" timestamp="1596818477810" />
+    <state width="929" height="275" key="GridCell.Tab.0.center" timestamp="1596818477810">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="929" height="275" key="GridCell.Tab.0.center/0.0.1920.1046@0.0.1920.1046" timestamp="1596818477810" />
+    <state width="929" height="275" key="GridCell.Tab.0.left" timestamp="1596818477809">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="929" height="275" key="GridCell.Tab.0.left/0.0.1920.1046@0.0.1920.1046" timestamp="1596818477809" />
+    <state width="929" height="275" key="GridCell.Tab.0.right" timestamp="1596818477810">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state width="929" height="275" key="GridCell.Tab.0.right/0.0.1920.1046@0.0.1920.1046" timestamp="1596818477810" />
+    <state x="930" y="121" key="SettingsEditor" timestamp="1596811709949">
+      <screen x="0" y="0" width="1920" height="1046" />
+    </state>
+    <state x="930" y="121" key="SettingsEditor/0.0.1920.1046@0.0.1920.1046" timestamp="1596811709949" />
+  </component>
+</project>
